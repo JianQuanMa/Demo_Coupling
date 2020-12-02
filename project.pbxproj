@@ -15,6 +15,7 @@
 		4EB429B725785284009CE6E1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4EB429B525785284009CE6E1 /* LaunchScreen.storyboard */; };
 		4EB429C225785285009CE6E1 /* Demo_CouplingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB429C125785285009CE6E1 /* Demo_CouplingTests.swift */; };
 		4EB429CD25785285009CE6E1 /* Demo_CouplingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB429CC25785285009CE6E1 /* Demo_CouplingUITests.swift */; };
+		4EB429DE25785368009CE6E1 /* Demo_Couple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB429DD25785368009CE6E1 /* Demo_Couple.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4EB429C825785285009CE6E1 /* Demo_CouplingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Demo_CouplingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EB429CC25785285009CE6E1 /* Demo_CouplingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo_CouplingUITests.swift; sourceTree = "<group>"; };
 		4EB429CE25785285009CE6E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4EB429DD25785368009CE6E1 /* Demo_Couple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo_Couple.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				4EB429AA25785280009CE6E1 /* AppDelegate.swift */,
 				4EB429AC25785280009CE6E1 /* SceneDelegate.swift */,
 				4EB429AE25785280009CE6E1 /* ViewController.swift */,
+				4EB429DD25785368009CE6E1 /* Demo_Couple.swift */,
 				4EB429B025785280009CE6E1 /* Main.storyboard */,
 				4EB429B325785284009CE6E1 /* Assets.xcassets */,
 				4EB429B525785284009CE6E1 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4EB429DE25785368009CE6E1 /* Demo_Couple.swift in Sources */,
 				4EB429AF25785280009CE6E1 /* ViewController.swift in Sources */,
 				4EB429AB25785280009CE6E1 /* AppDelegate.swift in Sources */,
 				4EB429AD25785280009CE6E1 /* SceneDelegate.swift in Sources */,
